@@ -1,0 +1,23 @@
+{
+	"folders": [
+		{
+			"path": "services/auth"
+		},
+		{
+			"path": "services/client"
+		},
+		{
+			"path": "services/hub"
+		},
+		{
+			"path": "services/twitch"
+		},
+		{
+			"path": "services/user"
+		},
+		{
+			"path": "."
+		}
+	],
+	"settings": {}
+}
